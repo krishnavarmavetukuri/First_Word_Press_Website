@@ -6,7 +6,6 @@ This repository contains the project files and documentation for the "How To Cre
 
 **Project Overview**
 
-This project demonstrates the following key skills and features:
 
 **Starting to Work with WordPress**
 
