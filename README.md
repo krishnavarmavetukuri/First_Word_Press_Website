@@ -9,12 +9,20 @@ This repository contains the project files and documentation for the "How To Cre
 This project demonstrates the following key skills and features:
 
 **Starting to Work with WordPress**
+
 WordPress Setup: Installation and configuration of WordPress.
+
 Theme Selection: Choosing and customizing a WordPress theme.
+
 Page Publishing: Creating and publishing the first page.
+
 Hyperlink Integration: Adding links to other pages on the internet.
 
+
 **Add Media, Social Media, and Launch**
+
 Media Integration: Adding images, videos, and sound to the website.
+
 Social Media Features: Incorporating social media links and sharing options.
+
 Compatibility Testing: Ensuring the website works on mobile platforms and multiple browsers.
