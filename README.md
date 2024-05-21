@@ -1,6 +1,6 @@
 # First_Word_Press_Website
 
-##How To Create a Website in a Weekend! (Project-Centered Course)
+#How To Create a Website in a Weekend! (Project-Centered Course)
 This repository contains the project files and documentation for the "How To Create a Website in a Weekend!" course completed on Coursera. The course focuses on building and customizing a WordPress website.
 
 Project Overview
